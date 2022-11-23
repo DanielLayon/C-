@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RSUz47vODVRuqtV0O1W4pl2ODhwltqIShlxxx8PiTHckbWkqgOqI3FQXY6TzrevBCd29iBRiCsrnsUtn80Vabg==",
+  "dgSpecHash": "mC/MYyN61vBnhj8PTZe7+5KiI9qND07i21OPqSx1vazIe4cPEA83dEF7wEavpaosygwOFHvmAYvrg9qQsXsDGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniel.pinto\\source\\repos\\BookAPI\\BookAPI\\BookAPI.csproj",
+  "projectFilePath": "C:\\Users\\daniel.pinto\\Documents\\GitHub\\CSharp\\WebApi - BookAPI\\BookAPI\\BookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.pinto\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\daniel.pinto\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
