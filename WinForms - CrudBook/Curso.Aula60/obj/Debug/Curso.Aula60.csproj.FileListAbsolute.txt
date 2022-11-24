@@ -1,0 +1,11 @@
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\bin\Debug\Curso.Aula60.exe.config
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\bin\Debug\Curso.Aula60.exe
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\bin\Debug\Curso.Aula60.pdb
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.csproj.AssemblyReference.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.Properties.Resources.resources
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.csproj.GenerateResource.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.csproj.CoreCompileInputs.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.exe
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.pdb
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Curso.Aula60\obj\Debug\Curso.Aula60.Form_MainStart.resources

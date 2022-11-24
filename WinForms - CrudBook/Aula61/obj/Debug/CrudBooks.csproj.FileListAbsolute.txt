@@ -1,0 +1,14 @@
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\bin\Debug\CrudBooks.exe.config
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\bin\Debug\CrudBooks.exe
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\bin\Debug\CrudBooks.pdb
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.csproj.AssemblyReference.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\Aula61.Form_Aula61.resources
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\Aula61.Properties.Resources.resources
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.csproj.GenerateResource.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.csproj.CoreCompileInputs.cache
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.csproj.CopyComplete
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.exe
+C:\Users\daniel.pinto\Desktop\C#\CursoWinForm\Curso\Aula61\obj\Debug\CrudBooks.pdb
